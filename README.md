@@ -1,5 +1,6 @@
 # ML-topics--NB-SVM
-basic pet projects(my first ML pet project)
+Basic pet projects(my first ML project)
+
 Diving into the insights of the Enron fraud case and identifying patterns:
 
 Data processing was applied and features of persons are obtained in a pickle file.
